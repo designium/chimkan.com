@@ -1,0 +1,17 @@
+<span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>project_management</b>.txt<br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Project Management has been in vogue for a while.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+A Project Manager main responsibilities are:
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Define the scope of a project
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Know the resources and time needed for the project
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Establish the sequence of events
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Schedule meetings
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Make the project to happen on time and budget <b><span id="emerald">$$$</span></b>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<a href="index.html?name_text=chimkan2016_visited.txt" target="blank">Back to main page</a>.

@@ -1,0 +1,36 @@
+<span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>chimkan.com</b>.txt<br/>
+Hi, I'm <u>Kan</u> and welcome!
+
+I have over 12 years of experience in creating web products.
+
+> <b>Websites</b>
+> <b>Apps</b> 
+> Interesting web experiences to consumers
+
+Products that help your company to ...
+
+> <a href="index.html?name_text=save_money.txt" target="blank">Save money</a> <b><span id="emerald">$$$</span></b> 
+> <a href="index.html?name_text=make_money.txt" target="blank">Make more</a> <b><span id="belizehole">+++</span></b> <b><span id="emerald">$$$</span></b> money
+> Make them more <span id="sunflower">!!!</span><span id="carrot">=</span><span id="alizarin">**</span> FUN <span id="alizarin">**</span><span id="carrot">=</span><span id="sunflower">!!!</span> 
+
+I worked at
+
+> <span id="peterriver">G</span><span id="alizarin">O</SPAN><span id="sunflower">O</span><span id="peterriver">G</span><span id="nephritis">L</span><span id="alizarin">E</span> 
+> Anheuser-Busch InBev or ABI &#127866; <span id="pomegranate">[Budweiser]</span> <span id="belizehole">[Bud Light]</span> <span id="emerald">[Stella Artois]</span>
+etc . . .
+
+I also worked in many different industries.
+
+> CPG. E-Commerce. Online Adverstising. Online Education. Mobile Commerce. <u id="orange">Now,<a href="index.html?name_text=fintech.txt" target="blank"> Fintech or Finance and Technology</a></u>.
+
+I can help you in <u><b><a href="index.html?name_text=product_management.txt" target="blank">Product Management</a></b></u>, <u><b><a href="index.html?name_text=project_management.txt" target="blank">Project managment</a></b></u>, <u><b><a href="index.html?name_text=digital_activations.txt" target="blank">Digital Activations</a></b></u>.
+
+Simply put:
+
+A <u><b><a href="index.html?name_text=cto.txt" target="blank">CTO</a></b></u> at your service.
+
+You tell me your problem, I come up with a full solution.
+
+Let's have a talk! I'd love to help you and your company!
+
+<a href="mailto:hello@chimkan.com">hello@chimkan.>com</a>

@@ -1,0 +1,23 @@
+<span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>product_management</b>.txt<br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<u>Product Management</u> is responsible for coming up with new products, specially in Internet companies.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+A Product Manager is responsible for:
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Benchmark the market for new opportunities
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Discover new areas of growth
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Come up with new product ideas to make <b><span id="emerald">$$$</span></b>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Gather resources to bring product ideas to life
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Manage the development
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Launch the product
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Measure results
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Redo the whole thing again !!!
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<a href="index.html?name_text=chimkan2016_visited.txt" target="blank">Back to main page</a>.

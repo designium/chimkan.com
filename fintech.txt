@@ -1,0 +1,34 @@
+<span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>fintech</b>.txt<br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+People ask me about <b id="emerald">Fintech</b> all the time.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<b id="emerald">Fintech</b> is a made up word of FINANCE<!-- laglaglaglaglaglaglaglaglaglaglaglag --> and TECHNOLOGY<!-- laglaglaglaglaglaglaglaglaglaglaglag -->.
+
+The <b id="emerald">Fintech</b> industry terminology was created to describe 
+a set of startups<!-- laglaglaglaglaglaglaglaglaglaglaglag --> and companies<!-- laglaglaglaglaglaglaglaglaglaglaglag --> trying <!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglaglaglaglag --> to leverage 
+technology in finance companies and business <!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->problems. 
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+These companies usually try to make operations more <!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+automated, thus cheaper and offer superior services<!-- laglaglaglaglaglaglaglaglaglaglaglag --> to finance consumers.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+The industry can be subdivided into multiple smaller segments<!-- laglaglaglaglaglaglaglaglaglaglaglag --> such as:
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Payments and transfers<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Digital currencies<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Blockchain<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Online lending<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Online insurance<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Robot Advisor or Wealth Management<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Aggregators<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> etc .<!-- laglaglaglaglaglaglaglaglaglaglaglag --> .<!-- laglaglaglaglaglaglaglaglaglaglaglag --> .<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+The whole industry is so diverse and vast that it makes it <!-- laglaglaglaglaglaglaglaglaglaglaglag -->hard to fit every <b id="emerald">Fintech</b> professional into the same bucket.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Some segments are harder to tackle because of technology.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Some others have compliances and regulation issues.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+The common ground is that <b>information</b> these companies<!-- laglaglaglaglaglaglaglaglaglaglaglag --> hold are usually very <b id="emerald">$ valuable $</b>; therefore, skills that are related to Machine Learning<!-- laglaglaglaglaglaglaglaglaglaglaglag -->, Fraud Detection<!-- laglaglaglaglaglaglaglaglaglaglaglag -->, Cyber Security<!-- laglaglaglaglaglaglaglaglaglaglaglag -->, Physics, Maths, Finance<!-- laglaglaglaglaglaglaglaglaglaglaglag -->, Regulations<!-- laglaglaglaglaglaglaglaglaglaglaglag -->, Laws<!-- laglaglaglaglaglaglaglaglaglaglaglag -->, etc... <!-- laglaglaglaglaglaglaglaglaglaglaglag -->are highly sought after.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+The two major ways to get into this industry is either you are coming in from the <u>technology</u><!-- laglaglaglaglaglaglaglaglaglaglaglag --> or <u>finance</u><!-- laglaglaglaglaglaglaglaglaglaglaglag --> side.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<a href="index.html?name_text=chimkan2016_visited.txt" target="blank">Back to main page</a>.

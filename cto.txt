@@ -1,0 +1,19 @@
+<span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>CTO</b>.txt<br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<b id="emerald">CTO</b> as a service and at your service.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Many organizations or startups cannot have a full time head of 
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->technology to take care of all their new IT projects.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Also, there are many times when you have one time 
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->project that you only need a person to bring your ideas to life.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+That is why it's better to retain a head of technology or CTO per project base. 
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Not only you can better control costs.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+You also have a better way to see how much value a CTO is bringing to your organization.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<b id="emerald">CTO</b> as a service also gives you flexibility for managing costs and requirements without the hurdle or fixed cost of a permenent person.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<a href="index.html?name_text=chimkan2016_visited.txt" target="blank">Back to main page</a>

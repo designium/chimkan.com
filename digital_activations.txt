@@ -1,0 +1,21 @@
+<span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>digital_activations</b>.txt<br/>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+If you are not in the Brand Marketing area, you may ask
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+what Digital Activation is?
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<u>Digital Activation</u> is a project where a big brand connect to their target consumers.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+The projects can be:
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> A mobile app where people get into a digital contest with prizes
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> A set of interactive TV screens with props in a mall
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> A special digital campaign with prizes
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+> Email campaigns
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+And more <!-- laglaglaglaglaglaglaglaglaglaglaglag -->. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<a href="index.html?name_text=chimkan2016_visited.txt" target="blank">Back to main page</a>.

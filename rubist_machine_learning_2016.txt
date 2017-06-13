@@ -1,0 +1,31 @@
+Complete Tutorial for Rubist in Machine Learning
+
+Requirements
+
+1. You will have to learn Python
+2. I promise it will be easy
+	a. Basic syntax
+	b. Similarities of Ruby and Python
+	c. Differences between Ruby and Python
+	d. How to know enough to use Machine Learning
+3. Setup your environment for success
+	a. pyenv, the rbenv for Python
+	b. choosing the right Python version
+	c. choosing the right package management
+	d. setup your favorite text editor
+4. Managing dependencies in Python
+	a. pip, though Anaconda may be magical
+5. Scikit-learn is the Machine Learning King
+	a. the 4 knigts of the Machine Learning
+	b. numpy
+	c. pandas
+	d. scipy
+	e. scikit-learn
+6. A bit of Machine Learning Theories and Steps Processes
+7. Leverage your knowledge in Ruby
+8. Connecting Your Machine Learning in Python to Ruby
+9. Speed up your Machine Learning with AWS EC2
+10. Making it Production Level
+11. Do whatever you want in Ruby after all
+
+

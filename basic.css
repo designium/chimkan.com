@@ -1,0 +1,95 @@
+	body {
+		background-color: #2c3e50;
+	}
+	#console {
+		font-family: courier, monospace;
+		color: #ecf0f1;
+		width:750px;
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:60px;
+		font-size:17px;
+
+		/* Rectangle 1: */
+		border: 2px solid #B91F90;
+		border-radius: 8px;
+		padding: 2em;
+	}
+
+
+	a {
+		text-decoration: underline;
+		color: #D35292;
+		text-shadow: 0px 0px 31px rgba(255,29,177,0.96);
+
+	}
+	#a {
+		color: #AC59EC;
+	}
+	#c {
+		color: #D35292;
+	}
+	#b {
+		color: #ff0096;
+	}
+	#turquoise {
+		color: #1abc9c;
+	}
+	#emerald {
+		color: #2ecc71;
+		text-shadow: 0px 0px 8px #77CE17;
+	}
+	#peterriver {
+	  color: #3498db;
+	}
+	#amethyst {
+	  color: #9b59b6;
+	}
+	#wetasphalt {
+	  color: #34495e;
+	}
+	#greensea {
+	  color: #16a085;
+	}
+	#nephritis {
+	  color: #27ae60;
+	}
+	#belizehole {
+	  color: #2980b9;
+	}
+	#wisteria {
+	  color: #8e44ad;
+	}
+	#midnightblue {
+	  color: #2c3e50;
+	}
+	#sunflower {
+	  color: #f1c40f;
+	}
+	#carrot {
+	  color: #e67e22;
+	}
+	#alizarin {
+	  color: #e74c3c;
+	}
+	#clouds {
+	  color: #ecf0f1;
+	}
+	#concrete {
+	  color: #95a5a6;
+	}
+	#orange {
+	  color: #f39c12;
+	}
+	#pumpkin {
+	  color: #d35400;
+	}
+	#pomegranate {
+	  color: #c0392b;
+	}
+	#silver {
+	  color: #bdc3c7;
+	}
+	#asbestos {
+	  color: #7f8c8d;
+	}
