@@ -1,7 +1,7 @@
 <span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>chimkan.com</b>.txt<br/>
 Hi, I'm <u>Kan</u> and welcome!
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-I have over 12 years of experience in creating web products.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I created my first website in 1997, then I create many PC games while at High School.<!-- laglaglaglaglaglaglaglaglaglaglaglag --> I learned how to program in Clipper and my first operating system was MS-DOS 5.0 on a AT/XT machine.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 > <b>Websites</b><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 > <b>Apps</b> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
