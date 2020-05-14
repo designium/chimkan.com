@@ -1,5 +1,5 @@
 <span id="a">[chimkan: /Users/chimkan/web]</span><span id="b">$</span>cat <b>chimkan.com</b>.txt<br/>
-Hi, I'm <u>Kan</u> and welcome!
+Hi, I'm <u>Chim</u> and welcome!
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 I created my first website in 1997, then I create many PC games while at High School.<!-- laglaglaglaglaglaglaglaglaglaglaglag --> I learned how to program in Clipper <!-- laglaglaglaglaglaglaglaglaglaglaglag -->   and my first operating system was MS-DOS 5.0 on a AT/XT machine.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
@@ -25,7 +25,7 @@ I also worked in many different industries.
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 > CPG. E-Commerce. Online Adverstising. Online Education. Mobile Commerce. Now, <a href="index.html?name_text=fintech.txt" target="blank"><!-- laglaglaglaglaglaglaglaglaglaglaglag -->Fintech<!-- laglaglaglaglaglaglaglaglaglaglaglag --> or <!-- laglaglaglaglaglaglaglaglaglaglaglag -->Finance and Technology</a>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-I can help you in <!-- laglaglaglaglaglaglaglaglaglaglaglag --><u><b><a href="index.html?name_text=product_management.txt" target="blank">Product Management</a></b></u>,<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <u><b><a href="index.html?name_text=project_management.txt" target="blank">Project managment</a></b></u>,<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <u><b><a href="index.html?name_text=digital_activations.txt" target="blank">Digital Activations</a></b></u>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I can help you in <!-- laglaglaglaglaglaglaglaglaglaglaglag --><u><b><a href="index.html?name_text=product_management.txt" target="blank">Product Management</a></b></u>,<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <u><b><a href="index.html?name_text=project_management.txt" target="blank">Project Management</a></b></u>,<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <u><b><a href="index.html?name_text=digital_activations.txt" target="blank">Digital Activations and Trasnformation</a></b></u>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Simply put:
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
